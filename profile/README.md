@@ -1,12 +1,22 @@
-## Hi there 👋
+<h1 align="center">Ganyu Studios ✨</h1>
 
-<!--
+### 🏠 Homepage
 
-**Here are some ideas to get you started:**
+* Welcome to the Ganyu Studios official repository.
+* In tihs place I will upload the projects of the Studios itself.
+* If I don't want to upload it, I will not upload it.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Author(s)
+
+- 👤 **JustEvil**
+
+* Twitter: [@NewJustEvil](https://twitter.com/NewJustEvil)
+* GitHub: [@EvilG-MC](https://github.com/EvilG-MC)
+
+## Repositories
+
+- 🐐 **Ganyu** - Not avaible.
+
+## Support
+- 📧 **Email**: `ganyustudios.liyue@gmail.com`
+- 📫´**Discord Server**: http://discord.ganyu-bot.xyz/
