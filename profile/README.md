@@ -16,8 +16,8 @@
 ## Repositories
 
 - 🐐 **Ganyu** - Not avaible.
-- 🐐 **Stelle** - A [Lavalink](https://github.com/lavalink-devs/Lavalink) powered music bot.
-- 🐐 **stelle.ts** - A shoukaku wrapper based on some libraries.
+- 🌟 **Stelle** - A [Lavalink](https://github.com/lavalink-devs/Lavalink) powered music bot.
+- 📦 **stelle.ts** - A shoukaku wrapper based on some libraries.
 
 ## Support
 - 📧 **Email**: `ganyustudios.liyue@gmail.com`
