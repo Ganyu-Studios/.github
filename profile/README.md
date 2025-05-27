@@ -21,4 +21,4 @@
 
 ## Support
 - 📧 **Email**: `ganyustudios.liyue@gmail.com`
-- 📫 **Discord Server**: http://discord.ganyu-bot.xyz/
+- 📫 **Discord Server**: https://discord.gg/4JmKY8wgB6
